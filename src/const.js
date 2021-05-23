@@ -15,7 +15,7 @@ export const w = {
     "tófa",
     "kameljón",
     "refur",
-    "breiðnefur","kengúra", "pokabjörn", "naut", "kind","þorskur", "marhnútur", "keil", "sandkoli","sólkoli", "ýsa", "naggrís", "húskakkalakki",
+    "breiðnefur","kengúra", "pokabjörn", "naut", "kind","þorskur", "marhnútur", "keila", "sandkoli","sólkoli", "ýsa", "naggrís", "húskakkalakki",
     "silfurskotta", "liljubjalla"
   ]
 };
