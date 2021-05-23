@@ -2,7 +2,8 @@
 
 ## To run
 
-_docket-compose up_
+1. npm install
+2. npm start
 
 # Sample
 
