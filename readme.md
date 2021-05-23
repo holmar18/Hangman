@@ -1,3 +1,13 @@
+# Hangman game in Javascript
+
+## To run
+
+_docket-compose up_
+
+# Sample
+
+![Sample](src/assets/img/hangmanimg.png)
+
 ## TODO'S
 
 1. Fix : ef tveir eins stafir eru i listanum sýna þá báða (verður ekki hægt að klara orðið annars) --> _DONE_
